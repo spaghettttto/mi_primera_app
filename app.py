@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.titule("Esta es mi aplicación 🦦")
+st.title("Esta es mi aplicación🦦")
 
-st.button("hacer click")
+st.button("Hacer click aqui")
 st.balloons()
